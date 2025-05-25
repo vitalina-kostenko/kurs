@@ -1,4 +1,4 @@
-﻿using System.Windows.Input;
+using System.Windows.Input;
 
 public class Command : ICommand
 {
@@ -11,8 +11,15 @@ public class Command : ICommand
         _canExecute = canExecute;
     }
 
-    public bool CanExecute(object? parameter) => _canExecute?.Invoke(parameter) ?? true;
+    public bool CanExecute(object? parameter)
+    {
+        if (_canExecute != null)
+            return _canExecute.Invoke(parameter);
+        return true;
+    }
+
     public void Execute(object? parameter) => _execute(parameter);
+
     public event EventHandler? CanExecuteChanged
     {
         add { CommandManager.RequerySuggested += value; }
