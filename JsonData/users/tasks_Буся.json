@@ -1,0 +1,15 @@
+[
+  {
+    "Id": "55f301fc-fd0f-443a-82a7-fd776208b02c",
+    "TaskType": "BasicTask",
+    "CreatedTime": "2025-05-24T08:16:58.8022523+03:00",
+    "Title": "Морозиво",
+    "IsCompleted": false,
+    "IsExpanded": true,
+    "Details": "",
+    "Category": "Personal",
+    "AttachmentPath": null,
+    "BaseDescription": "Морозиво",
+    "Description": "Морозиво"
+  }
+]

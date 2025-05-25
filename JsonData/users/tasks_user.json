@@ -1,0 +1,73 @@
+[
+  {
+    "DueDate": "2025-05-25T00:00:00\u002B03:00",
+    "BaseDescription": "efsdf - Due: 25/05/2025",
+    "Id": "af2b955c-41c6-45b7-92fd-675cfbf41aeb",
+    "TaskType": "TimedTask",
+    "CreatedTime": "2025-05-25T19:09:14.2708864\u002B03:00",
+    "Title": "efsdf",
+    "IsCompleted": true,
+    "IsExpanded": false,
+    "Details": "",
+    "Category": "General",
+    "AttachmentPath": null,
+    "Description": "efsdf - Due: 25/05/2025",
+    "Type": "TimedTask"
+  },
+  {
+    "Id": "6a88905e-b68b-4d27-973a-ddea8b83a522",
+    "TaskType": "BasicTask",
+    "CreatedTime": "2025-05-25T19:09:08.8147119\u002B03:00",
+    "Title": "\u043A\u0443\u0435\u0443\u043A\u0435",
+    "IsCompleted": true,
+    "IsExpanded": false,
+    "Details": "",
+    "Category": "General",
+    "AttachmentPath": null,
+    "BaseDescription": "\u043A\u0443\u0435\u0443\u043A\u0435",
+    "Description": "\u043A\u0443\u0435\u0443\u043A\u0435",
+    "Type": "BasicTask"
+  },
+  {
+    "Id": "7f2e5a34-2e06-43f3-8717-4f23a44300ae",
+    "TaskType": "BasicTask",
+    "CreatedTime": "2025-05-25T19:09:08.8154196\u002B03:00",
+    "Title": "55",
+    "IsCompleted": true,
+    "IsExpanded": false,
+    "Details": "cgcgcf",
+    "Category": "General",
+    "AttachmentPath": null,
+    "BaseDescription": "55",
+    "Description": "55",
+    "Type": "BasicTask"
+  },
+  {
+    "Id": "e7ccdb5a-de68-4b21-8d71-0d40be8aed41",
+    "TaskType": "BasicTask",
+    "CreatedTime": "2025-05-25T19:09:08.8154737\u002B03:00",
+    "Title": "\u0432\u0430\u043F\u0430\u0432\u043F\u0432\u0430",
+    "IsCompleted": false,
+    "IsExpanded": false,
+    "Details": "",
+    "Category": "Personal",
+    "AttachmentPath": null,
+    "BaseDescription": "\u0432\u0430\u043F\u0430\u0432\u043F\u0432\u0430",
+    "Description": "\u0432\u0430\u043F\u0430\u0432\u043F\u0432\u0430",
+    "Type": "BasicTask"
+  },
+  {
+    "Id": "0de1918d-e4ec-426d-b9f9-5ad1a0e8f17c",
+    "TaskType": "BasicTask",
+    "CreatedTime": "2025-05-25T19:09:08.8155201\u002B03:00",
+    "Title": "\u0432\u0430\u043F\u0430\u0432\u043F\u0456\u0430\u0432\u043F\u0440",
+    "IsCompleted": false,
+    "IsExpanded": false,
+    "Details": "",
+    "Category": "Personal",
+    "AttachmentPath": null,
+    "BaseDescription": "\u0432\u0430\u043F\u0430\u0432\u043F\u0456\u0430\u0432\u043F\u0440",
+    "Description": "\u0432\u0430\u043F\u0430\u0432\u043F\u0456\u0430\u0432\u043F\u0440",
+    "Type": "BasicTask"
+  }
+]

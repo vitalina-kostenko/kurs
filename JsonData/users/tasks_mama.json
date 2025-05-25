@@ -1,0 +1,55 @@
+[
+  {
+    "DueDate": "2025-05-24T00:00:00",
+    "BaseDescription": "авпвап - Due: 24/05/2025",
+    "Id": "44fa8887-6621-4f68-a726-1137d4677319",
+    "TaskType": "TimedTask",
+    "CreatedTime": "2025-05-23T18:38:03.9435624+03:00",
+    "Title": "авпвап",
+    "IsCompleted": false,
+    "IsExpanded": false,
+    "Details": "",
+    "Category": "Personal",
+    "AttachmentPath": "C:\\Users\\koste\\Pictures\\Screenshot 2024-11-27 172001.png",
+    "Description": "авпвап - Due: 24/05/2025 📎"
+  },
+  {
+    "Id": "0d884fec-e105-4c6b-bfec-f85db1e0a596",
+    "TaskType": "BasicTask",
+    "CreatedTime": "2025-05-23T18:37:59.9514014+03:00",
+    "Title": "Буся",
+    "IsCompleted": true,
+    "IsExpanded": false,
+    "Details": "",
+    "Category": "Personal",
+    "AttachmentPath": null,
+    "BaseDescription": "Буся",
+    "Description": "Буся"
+  },
+  {
+    "Id": "a5183b47-73dc-44a5-bb94-da828ac2a62a",
+    "TaskType": "BasicTask",
+    "CreatedTime": "2025-05-23T18:37:34.1673954+03:00",
+    "Title": "sgsdgegvfd",
+    "IsCompleted": false,
+    "IsExpanded": false,
+    "Details": "",
+    "Category": "General",
+    "AttachmentPath": null,
+    "BaseDescription": "sgsdgegvfd",
+    "Description": "sgsdgegvfd"
+  },
+  {
+    "Id": "1399b1d0-4c83-4a8d-8df8-1727108eb900",
+    "TaskType": "BasicTask",
+    "CreatedTime": "2025-05-23T18:37:34.2293144+03:00",
+    "Title": "квпвап",
+    "IsCompleted": true,
+    "IsExpanded": false,
+    "Details": "",
+    "Category": "General",
+    "AttachmentPath": null,
+    "BaseDescription": "квпвап",
+    "Description": "квпвап"
+  }
+]

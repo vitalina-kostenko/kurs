@@ -1,0 +1,32 @@
+﻿<Window x:Class="ToDoList.RegisterWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Register" Height="300" Width="300"
+        WindowStartupLocation="CenterScreen">
+    <Grid Margin="20">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <!-- Username -->
+            <RowDefinition Height="Auto"/>
+            <!-- Password -->
+            <RowDefinition Height="Auto"/>
+            <!-- Button -->
+        </Grid.RowDefinitions>
+
+        <!-- Username -->
+        <StackPanel Grid.Row="0" Margin="0,0,0,10">
+            <TextBlock Text="Username" Foreground="Gray" Margin="0,0,0,2"/>
+            <TextBox x:Name="UsernameBox" Width="200"/>
+        </StackPanel>
+
+        <!-- Password -->
+        <StackPanel Grid.Row="1" Margin="0,0,0,10">
+            <TextBlock Text="Password" Foreground="Gray" Margin="0,0,0,2"/>
+            <PasswordBox x:Name="PasswordBox" Width="200"/>
+        </StackPanel>
+
+        <!-- Register Button -->
+        <Button Grid.Row="2" Content="Register" Width="100" Height="30"
+                HorizontalAlignment="Center" Click="Register_Click"/>
+    </Grid>
+</Window>
