@@ -70,13 +70,4 @@ namespace ToDoList.Data
                 Directory.CreateDirectory(dir);
         }
     }
-
-    public static class Extensions
-    {
-        public static T Also<T>(this T obj, Action<T> action)
-        {
-            action(obj);
-            return obj;
-        }
-    }
 }
