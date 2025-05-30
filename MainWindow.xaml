@@ -166,7 +166,7 @@
             </StackPanel>
         </Grid>
 
-        <!-- Права панель — твій оригінальний DockPanel -->
+        <!-- Права панель  -->
         <DockPanel Grid.Column="1" Margin="0,0,0,0">
 
             <!-- Create Task -->
@@ -206,7 +206,6 @@
 
             <!-- Task List -->
             <ListBox ItemsSource="{Binding TasksView}" Background="White">
-                <!-- Твій DataTemplate тут без змін -->
                 <ListBox.ItemTemplate>
                     <DataTemplate DataType="{x:Type models:TaskItem}">
                         <StackPanel>
